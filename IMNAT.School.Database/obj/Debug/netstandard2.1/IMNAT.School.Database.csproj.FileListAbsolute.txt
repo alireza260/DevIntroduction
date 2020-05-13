@@ -1,0 +1,9 @@
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netstandard2.1\IMNAT.School.Database.deps.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netstandard2.1\IMNAT.School.Database.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netstandard2.1\IMNAT.School.Database.csprojAssemblyReference.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netstandard2.1\IMNAT.School.Database.AssemblyInfoInputs.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netstandard2.1\IMNAT.School.Database.AssemblyInfo.cs
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netstandard2.1\IMNAT.School.Database.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netstandard2.1\IMNAT.School.Database.csproj.CoreCompileInputs.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netstandard2.1\IMNAT.School.Database.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netstandard2.1\IMNAT.School.Database.pdb

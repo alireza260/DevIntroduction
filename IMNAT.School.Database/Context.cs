@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace IMNAT.School.Database
 {
     public class Context : DbContext
     {
-
-        public Context(string connectionString) : base(connectionString)
+        public Context(DbContextOptions<Context> options) : base(options)
         {
+
         }
 
         public DbSet<Students> Students { get; set; }

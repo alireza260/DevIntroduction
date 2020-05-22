@@ -4,6 +4,6 @@
     "\\IMNAT.School.CLI",
     "\\IMNAT.School.Database"
   ],
-  "SelectedNode": "\\IMNAT.School.Database\\ContextSeedInitializer.cs",
+  "SelectedNode": "\\IMNAT.School.Database\\Context.cs",
   "PreviewInSolutionExplorer": false
 }

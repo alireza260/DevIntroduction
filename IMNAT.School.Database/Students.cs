@@ -13,6 +13,7 @@ namespace IMNAT.School.Database
         public int StudentID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public string Email { get; set; }
         
         //navigation property
         public virtual ICollection<Enrollments> Enrollments { get; set; }

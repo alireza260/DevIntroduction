@@ -1,0 +1,12 @@
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netcoreapp3.1\IMNAT.School.Database.deps.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netcoreapp3.1\IMNAT.School.Database.runtimeconfig.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netcoreapp3.1\IMNAT.School.Database.runtimeconfig.dev.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netcoreapp3.1\IMNAT.School.Database.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\bin\Debug\netcoreapp3.1\IMNAT.School.Database.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.csprojAssemblyReference.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.AssemblyInfoInputs.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.AssemblyInfo.cs
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.genruntimeconfig.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Database\obj\Debug\netcoreapp3.1\IMNAT.School.Database.csproj.CoreCompileInputs.cache

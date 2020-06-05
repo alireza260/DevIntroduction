@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IMNAT.School.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace IMNAT.School.Database
+namespace IMNAT.School.Repositories
 {
     public class Context : DbContext
     {

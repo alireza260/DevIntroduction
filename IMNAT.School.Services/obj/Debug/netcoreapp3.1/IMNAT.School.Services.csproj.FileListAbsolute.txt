@@ -1,0 +1,17 @@
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Models.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Repositories.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.csprojAssemblyReference.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.AssemblyInfoInputs.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.AssemblyInfo.cs
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Services.deps.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Services.runtimeconfig.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Services.runtimeconfig.dev.json
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Services.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Services.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Repositories.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\bin\Debug\netcoreapp3.1\IMNAT.School.Models.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.csproj.CoreCompileInputs.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.csproj.CopyComplete
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.Services\obj\Debug\netcoreapp3.1\IMNAT.School.Services.genruntimeconfig.cache

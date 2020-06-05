@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Collections.Generic;
 using System.Data.Entity;
 
-namespace IMNAT.School.Database
+namespace IMNAT.School.Models
 {
     public class Enrollments
     {

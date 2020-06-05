@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IMNAT.School.Database\IMNAT.School.Database.csproj" />
+    <ProjectReference Include="..\IMNAT.School.Services\IMNAT.School.Services.csproj" />
   </ItemGroup>
 
 </Project>

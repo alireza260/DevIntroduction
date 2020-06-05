@@ -1633,7 +1633,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "IMNAT.School.Database/1.0.0": {
+      "IMNAT.School.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1642,10 +1642,44 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4"
         },
         "compile": {
-          "bin/placeholder/IMNAT.School.Database.dll": {}
+          "bin/placeholder/IMNAT.School.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IMNAT.School.Database.dll": {}
+          "bin/placeholder/IMNAT.School.Models.dll": {}
+        }
+      },
+      "IMNAT.School.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EntityFramework": "6.4.4",
+          "IMNAT.School.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4"
+        },
+        "compile": {
+          "bin/placeholder/IMNAT.School.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMNAT.School.Repositories.dll": {}
+        }
+      },
+      "IMNAT.School.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EntityFramework": "6.4.4",
+          "IMNAT.School.Repositories": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.4",
+          "Microsoft.Extensions.Configuration.Json": "3.1.4"
+        },
+        "compile": {
+          "bin/placeholder/IMNAT.School.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMNAT.School.Services.dll": {}
         }
       }
     }
@@ -5904,16 +5938,26 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "IMNAT.School.Database/1.0.0": {
+    "IMNAT.School.Models/1.0.0": {
       "type": "project",
-      "path": "../IMNAT.School.Database/IMNAT.School.Database.csproj",
-      "msbuildProject": "../IMNAT.School.Database/IMNAT.School.Database.csproj"
+      "path": "../IMNAT.School.Models/IMNAT.School.Models.csproj",
+      "msbuildProject": "../IMNAT.School.Models/IMNAT.School.Models.csproj"
+    },
+    "IMNAT.School.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../IMNAT.School.Repositories/IMNAT.School.Repositories.csproj",
+      "msbuildProject": "../IMNAT.School.Repositories/IMNAT.School.Repositories.csproj"
+    },
+    "IMNAT.School.Services/1.0.0": {
+      "type": "project",
+      "path": "../IMNAT.School.Services/IMNAT.School.Services.csproj",
+      "msbuildProject": "../IMNAT.School.Services/IMNAT.School.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "EntityFramework >= 6.4.4",
-      "IMNAT.School.Database >= 1.0.0",
+      "IMNAT.School.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.4",
       "Microsoft.Extensions.Configuration >= 3.1.4",
@@ -5952,8 +5996,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\alire\\source\\repos\\alireza260\\DevIntroduction\\IMNAT.School.Database\\IMNAT.School.Database.csproj": {
-              "projectPath": "C:\\Users\\alire\\source\\repos\\alireza260\\DevIntroduction\\IMNAT.School.Database\\IMNAT.School.Database.csproj"
+            "C:\\Users\\alire\\source\\repos\\alireza260\\DevIntroduction\\IMNAT.School.Services\\IMNAT.School.Services.csproj": {
+              "projectPath": "C:\\Users\\alire\\source\\repos\\alireza260\\DevIntroduction\\IMNAT.School.Services\\IMNAT.School.Services.csproj"
             }
           }
         }

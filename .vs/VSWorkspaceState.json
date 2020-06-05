@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\IMNAT.School.CLI",
-    "\\IMNAT.School.Database"
+    "\\IMNAT.School.Database",
+    "\\IMNAT.School.Models",
+    "\\IMNAT.School.Repositories",
+    "\\IMNAT.School.Services"
   ],
-  "SelectedNode": "\\IMNAT.School.Database\\Context.cs",
+  "SelectedNode": "\\IMNAT.School.CLI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

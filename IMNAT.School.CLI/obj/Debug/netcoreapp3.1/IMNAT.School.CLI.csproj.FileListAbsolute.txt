@@ -27,8 +27,6 @@ C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debu
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Database.dll
-C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Database.pdb
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\obj\Debug\netcoreapp3.1\IMNAT.School.CLI.csproj.CopyComplete
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\obj\Debug\netcoreapp3.1\IMNAT.School.CLI.dll
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\obj\Debug\netcoreapp3.1\IMNAT.School.CLI.pdb
@@ -81,3 +79,9 @@ C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debu
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
 C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\obj\Debug\netcoreapp3.1\IMNAT.School.CLI.csproj.CoreCompileInputs.cache
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Models.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Repositories.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Services.dll
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Services.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Models.pdb
+C:\Users\alire\source\repos\alireza260\DevIntroduction\IMNAT.School.CLI\bin\Debug\netcoreapp3.1\IMNAT.School.Repositories.pdb
